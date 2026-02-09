@@ -18,7 +18,6 @@ let friendsCount = 3;
 friendsCount = 1;
 console.log(friendsCount);
 
-
 // problem_05
 let phonePrice = 25000;
 phonePrice = 12000;
