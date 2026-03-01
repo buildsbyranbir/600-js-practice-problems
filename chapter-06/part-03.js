@@ -7,10 +7,11 @@ console.log(numbers);
 
 
 //problem-02
-let friends = ["Sajib", "Sagar", "Sakib", "Sohel"];
+let names = ["Rahim", "Karim", "Sumon", "Rumon"];
 
-friends.push("Suman");
+names.push("Sohag");
 
+console.log(names);
 
 
 //problem-03
@@ -22,11 +23,11 @@ console.log(games);
 
 
 //problem-04
-let num = [24, 36, 48, 60];
+let arr = [24, 36, 48, 60];
 
-numbers.unshift(12);
+arr.unshift(12);
 
-console.log(num);
+console.log(arr);
 
 
 //problem-05
