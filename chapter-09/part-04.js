@@ -47,7 +47,7 @@ console.log(sumFirstTwo([5, 10, 20])); // 15
 
 
 
-
+ 
 //problem-05
 function modifyNumber(n) {
   if (n >= 0) {
