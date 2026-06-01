@@ -78,7 +78,7 @@ console.log(sumRest(10, 20, 30, 40, 50)); // 120
 
 
 
-
+   
 // Problem 6
 function average(...numbers) {
     let sum = 0;
